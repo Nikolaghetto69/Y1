@@ -1,0 +1,25 @@
+*{
+    color: rgb(255, 255, 255);
+    /*
+    border: 1px solid #04ff00; не работает
+    */
+}
+
+body{
+    background-image: url("https://cojo.ru/wp-content/uploads/2022/12/dedpul-4k-7.webp");
+
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+        
+}
+p{  
+    display: inline-block;
+    background-color: rgba(192, 192, 192, 0.171);
+    width: 50%;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
